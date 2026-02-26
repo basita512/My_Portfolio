@@ -13,7 +13,7 @@ const PROJECTS = [
     tech: ["React+TypeScript", "Express", "Postgres", "Prisma", "TailwindCSS"],
     description: "Multi-tenant SaaS job board platform to make customized career pages for companies with company-specific branding, SEO configurations, and role-based access control.",
     link: "https://career-page-builder-fe.vercel.app/",
-    github: "https://github.com/basita512/Career-Page-Builder",
+    github: "https://github.com/basita512/CareerPageBuilder",
     images: [
       "/projects/careerPageBuilder/a-image.png",
       "/projects/careerPageBuilder/a2.png",
@@ -28,7 +28,7 @@ const PROJECTS = [
     tech: ["Python", "LangChain", "LangGraph", "Hybrid RAG", "EasyOCR", "Whisper", "Groq Llama3", "ChromaDB", "Streamlit"],
     description: "JEE Math problem-solving AI with Text, speech and image input using a deterministic state machine to manage complex agent workflows.",
     link: "https://aimathmentor-hwn5xtsc4ade5zfwx3ksbza.streamlit.app/",
-    github: "https://github.com/basita512/Math-Mentor-AI",
+    github: "https://github.com/basita512/MathMentorAI",
     images: [
       "/projects/mathmentor/b1.png",
       "/projects/mathmentor/b2.png",
@@ -53,7 +53,7 @@ const PROJECTS = [
     title: "Trade Portfolio AI Chatbot",
     tech: ["Python", "LangChain", "RAG", "FAISS Vector DB", "SQLite", "Pandas", "Numpy"],
     description: "Self-improving financial analytics chatbot with a hybrid RAG pipeline and automated feedback loop.",
-    github: "https://github.com/basita512/Trade-Portfolio-AI-Chatbot",
+    github: "https://github.com/basita512/TradePortfolio_Chatbot",
     images: [
       "/projects/portfolioChatbot/d1.png",
       "/projects/portfolioChatbot/d2.png",
