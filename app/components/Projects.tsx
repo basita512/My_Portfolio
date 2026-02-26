@@ -12,7 +12,7 @@ const PROJECTS = [
     title: "Career Page Builder",
     tech: ["React+TypeScript", "Express", "Postgres", "Prisma", "TailwindCSS"],
     description: "Multi-tenant SaaS job board platform to make customized career pages for companies with company-specific branding, SEO configurations, and role-based access control.",
-    link: "https://career-page-builder-frontend-123.vercel.app/",
+    link: "https://career-page-builder-fe.vercel.app/",
     github: "https://github.com/basita512/Career-Page-Builder",
     images: [
       "/projects/careerPageBuilder/a-image.png",
