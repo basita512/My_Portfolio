@@ -2,7 +2,7 @@
 
 <p align="center">
   Personal portfolio website built with Next.js, React, and Framer Motion.<br/>
-  <a href="https://basita-portfolio.vercel.app"><strong>🔗 View Live</strong></a>
+  <a href="https://basita-tashfeen.vercel.app/"><strong>View Live</strong></a>
 </p>
 
 ## Setup
